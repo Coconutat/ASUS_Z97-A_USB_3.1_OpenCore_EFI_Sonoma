@@ -4,7 +4,7 @@
  | **Basic Hardware List:** |                                 |
  | :----------------------: | :-----------------------------: |
  |           CPU            |      Intel Xeon E3-1271 v3      |
- |       Motherboard        |     ASUS ASUS Z97-A_USB3.1      |
+ |       Motherboard        |        ASUS Z97-A_USB3.1        |
  |           RAM            |    32GB (4x8GB) DDR3 1866MHz    |
  |           GPU            |    AMD Radeon RX 6650XT 8GB     |
  |           SSD            | Western Digital BLACK SN770 1TB |
