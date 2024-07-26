@@ -14,4 +14,6 @@
 OpenCore Version: 1.0.0    
 GPU Kexts: NootRX    
 If you want Wireless Network Card work. You need install **[OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher)**.  
+EFI Based [RapidEFI-Tool](https://github.com/JeoJay127/RapidEFI-Tool).Then modify and test.  
+Open Core Theme: By 黑苹果星球 - [Heikintosh](https://heipg.cn/apps/opencore-theme-heikintosh.html)  
 ***  
